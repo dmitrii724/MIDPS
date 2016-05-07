@@ -1,8 +1,0 @@
-C:\Users\user\Desktop\Calculator MIDPS\bin\Release\Calculator MIDPS.exe.config
-C:\Users\user\Desktop\Calculator MIDPS\bin\Release\Calculator MIDPS.exe
-C:\Users\user\Desktop\Calculator MIDPS\bin\Release\Calculator MIDPS.pdb
-C:\Users\user\Desktop\Calculator MIDPS\obj\Release\Calculator_MIDPS.Form1.resources
-C:\Users\user\Desktop\Calculator MIDPS\obj\Release\Calculator_MIDPS.Properties.Resources.resources
-C:\Users\user\Desktop\Calculator MIDPS\obj\Release\Calculator MIDPS.csproj.GenerateResource.Cache
-C:\Users\user\Desktop\Calculator MIDPS\obj\Release\Calculator MIDPS.exe
-C:\Users\user\Desktop\Calculator MIDPS\obj\Release\Calculator MIDPS.pdb
